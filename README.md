@@ -122,7 +122,7 @@ apply to the image from the list
 filters(im_list2[2])
 ```
 ![8](https://user-images.githubusercontent.com/90727271/181119110-bca9001d-2a24-4cad-a532-cabcd64cea74.png)
-Another variant of function
+Another variant of the function
 ```
 def filts(file):
     ig, axes = plt.subplots(nrows=2, ncols=2, sharex=True, sharey=True,
